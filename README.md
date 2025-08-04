@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo23233
-Fork on GitHub7867
 <h1 align="center">Hi 👋, I'm Mauro</h1>
 <h3 align="center">Full Stack + Infra | Turning Ideas into Production-Ready Systems</h3>
 
