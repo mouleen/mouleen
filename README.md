@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Development**
 
-- 👨‍💻 All of my projects are available at [https://softlight.com.ar](https://softlight.com.ar)
+- 👨‍💻 More about me [here](https://flowcv.com/resume/rgksj5c6tujb)
 
 - 📫 How to reach me **limauropro@gmail.com**
 
